@@ -1,4 +1,6 @@
 print("hello world")
 
-for _ in range(10):
+i = 0
+while i < 10
     print("CodeCool :)")
+    i += 1
